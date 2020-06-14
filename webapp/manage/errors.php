@@ -1,0 +1,1 @@
+<p style="text-align:left; color:#FF6600; padding:10px;"><?= $errmsg; ?></p>
